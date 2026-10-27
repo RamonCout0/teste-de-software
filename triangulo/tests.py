@@ -22,18 +22,24 @@ def test_triangulo_cases():
         ((100, 100, 100), 'Equilátero'),
         ((99, 100, 100), 'Isósceles'),
         ((99, 100, 101), 'Escaleno'),
+        ((0, 1, 1), 'Isósceles'),
+        ((1, 0, 1), 'Isósceles'),
+        ((2, 1, 1), 'Isósceles'),
+        ((1, 2, 1), 'Isósceles'),
+        ((1, 1, 0), 'Isósceles'),
     ]
 
     passed = 0
     for inp, expected in cases:
         out = run_triangulo(*inp)
-        ok = expected in out
+        ok = expected == out
         status = 'PASS' if ok else 'FAIL'
         print(f"triangulo{inp} -> expected: {expected!r}, got: {out!r} => {status}")
         if ok:
             passed += 1
 
     print(f"\nTriangle tests passed: {passed}/{len(cases)}")
+    return passed == len(cases)
 
 
 def discount_percentage(age: int) -> float:
@@ -85,6 +91,7 @@ def test_discount_cases():
 
 if __name__ == '__main__':
     print('Running triangle tests...')
-    test_triangulo_cases()
+    triangulo_ok = test_triangulo_cases()
     print('\nRunning discount tests...')
     test_discount_cases()
+    sys.exit(0 if triangulo_ok else 1)

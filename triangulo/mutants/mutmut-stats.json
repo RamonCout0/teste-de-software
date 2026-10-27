@@ -1,0 +1,57 @@
+{
+    "tests_by_mangled_function_name": {
+        "triangulo.x_classifica": [
+            "test_triangulo.py::test_classifica[lados13-Escaleno]",
+            "test_triangulo.py::test_classifica[lados3-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados7-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados2-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados10-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados5-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados0-Equil\\xe1tero]",
+            "test_triangulo.py::test_classifica[lados4-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados11-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados1-Equil\\xe1tero]",
+            "test_triangulo.py::test_classifica[lados6-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados9-Is\\xf3sceles]",
+            "test_triangulo.py::test_classifica[lados12-Escaleno]",
+            "test_triangulo.py::test_classifica[lados8-Is\\xf3sceles]"
+        ]
+    },
+    "duration_by_test": {
+        "test_triangulo.py::test_classifica[lados0-Equil\\xe1tero]": 0.00011743200002456433,
+        "test_triangulo.py::test_classifica[lados1-Equil\\xe1tero]": 8.627800002614094e-05,
+        "test_triangulo.py::test_classifica[lados2-Is\\xf3sceles]": 6.491699991784117e-05,
+        "test_triangulo.py::test_classifica[lados3-Is\\xf3sceles]": 6.658000006609655e-05,
+        "test_triangulo.py::test_classifica[lados4-Is\\xf3sceles]": 6.320200009213295e-05,
+        "test_triangulo.py::test_classifica[lados5-Is\\xf3sceles]": 6.430300004467426e-05,
+        "test_triangulo.py::test_classifica[lados6-Is\\xf3sceles]": 6.768499997633626e-05,
+        "test_triangulo.py::test_classifica[lados7-Is\\xf3sceles]": 5.9594000049401075e-05,
+        "test_triangulo.py::test_classifica[lados8-Is\\xf3sceles]": 6.556500011356547e-05,
+        "test_triangulo.py::test_classifica[lados9-Is\\xf3sceles]": 6.437500019274012e-05,
+        "test_triangulo.py::test_classifica[lados10-Is\\xf3sceles]": 6.411399999706191e-05,
+        "test_triangulo.py::test_classifica[lados11-Is\\xf3sceles]": 6.436800003939425e-05,
+        "test_triangulo.py::test_classifica[lados12-Escaleno]": 6.287899987000856e-05,
+        "test_triangulo.py::test_classifica[lados13-Escaleno]": 6.0563000033653225e-05
+    },
+    "stats_time": 0.238266186,
+    "function_hashes": {
+        "triangulo.x_classifica": "19d3ecc5ff33"
+    },
+    "function_dependencies": {},
+    "config_fingerprint": {
+        "test_execution": "2e38e77b22c3",
+        "test_selection": "2e38e77b22c3",
+        "timeout": "d3052321fdc3",
+        "type_check": "2e38e77b22c3"
+    },
+    "watched_file_hashes": {
+        "setup.cfg": "a5d4d68990d2",
+        "Main.java": "61bceb9c9c01",
+        "__pycache__/test_triangulo.cpython-314-pytest-9.1.1.pyc": "5fca58e6d70f",
+        "__pycache__/triangulo.cpython-314.pyc": "f52892dec250",
+        "mutants/setup.cfg": "a5d4d68990d2",
+        "mutants/triangulo.py.meta": "355357c9bee2",
+        "mutants/triangulo.py.spans": "463b1bfadad1"
+    },
+    "git_commit": "7216ccaa0c71e03a0b64f19681052dd3a7857630"
+}

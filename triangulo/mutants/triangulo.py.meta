@@ -1,0 +1,60 @@
+{
+    "exit_code_by_key": {
+        "triangulo.x_classifica__mutmut_1": 1,
+        "triangulo.x_classifica__mutmut_2": 1,
+        "triangulo.x_classifica__mutmut_3": 1,
+        "triangulo.x_classifica__mutmut_4": 1,
+        "triangulo.x_classifica__mutmut_5": 1,
+        "triangulo.x_classifica__mutmut_6": 1,
+        "triangulo.x_classifica__mutmut_7": 1,
+        "triangulo.x_classifica__mutmut_8": 1,
+        "triangulo.x_classifica__mutmut_9": 1,
+        "triangulo.x_classifica__mutmut_10": 1,
+        "triangulo.x_classifica__mutmut_11": 1,
+        "triangulo.x_classifica__mutmut_12": 1,
+        "triangulo.x_classifica__mutmut_13": 1,
+        "triangulo.x_classifica__mutmut_14": 1,
+        "triangulo.x_classifica__mutmut_15": 1,
+        "triangulo.x_classifica__mutmut_16": 1
+    },
+    "hash_by_function_name": {
+        "x_classifica": "19d3ecc5ff33"
+    },
+    "type_check_error_by_key": {},
+    "durations_by_key": {
+        "triangulo.x_classifica__mutmut_1": 0.037831,
+        "triangulo.x_classifica__mutmut_2": 0.044102,
+        "triangulo.x_classifica__mutmut_3": 0.056859,
+        "triangulo.x_classifica__mutmut_4": 0.059897,
+        "triangulo.x_classifica__mutmut_6": 0.047865,
+        "triangulo.x_classifica__mutmut_5": 0.067033,
+        "triangulo.x_classifica__mutmut_7": 0.064945,
+        "triangulo.x_classifica__mutmut_8": 0.070851,
+        "triangulo.x_classifica__mutmut_9": 0.068076,
+        "triangulo.x_classifica__mutmut_10": 0.087227,
+        "triangulo.x_classifica__mutmut_11": 0.067663,
+        "triangulo.x_classifica__mutmut_12": 0.073787,
+        "triangulo.x_classifica__mutmut_13": 0.068953,
+        "triangulo.x_classifica__mutmut_14": 0.050223,
+        "triangulo.x_classifica__mutmut_15": 0.062712,
+        "triangulo.x_classifica__mutmut_16": 0.049248
+    },
+    "estimated_durations_by_key": {
+        "triangulo.x_classifica__mutmut_1": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_2": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_3": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_4": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_5": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_6": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_7": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_8": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_9": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_10": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_11": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_12": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_13": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_14": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_15": 0.0009718550004436111,
+        "triangulo.x_classifica__mutmut_16": 0.0009718550004436111
+    }
+}
